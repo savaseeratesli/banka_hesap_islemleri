@@ -1,0 +1,3 @@
+﻿  bankClass.cpp
+D:\opp_projeler\bankClass\bankAccount.h(25,10): warning C4244: 'return': 'const float' - 'int' dönüşümü; veri kaybı olabilir
+  bankClass.vcxproj -> D:\opp_projeler\bankClass\Debug\bankClass.exe

@@ -1,0 +1,2 @@
+D:\opp_projeler\bankClass\Debug\bankClass.exe
+D:\opp_projeler\bankClass\Debug\bankClass.pdb
